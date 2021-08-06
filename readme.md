@@ -6,8 +6,6 @@
 
 I'm a software developer at the IDF, developing the medicine systems 
 
-Like My Work?
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, TypeScript, etc.
